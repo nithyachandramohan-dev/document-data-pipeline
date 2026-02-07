@@ -53,13 +53,9 @@ document-data-pipeline/
 
 ---
 
-## How to Run the Pipeline
+## How to Run the Pipelinee
 
-## How to Run the Pipeline
-
-Follow the steps below to run the complete document data pipeline.
-
----
+Follow the steps below to run the complete document data pipeline
 
 ### Step 1: Set up the environment
 
