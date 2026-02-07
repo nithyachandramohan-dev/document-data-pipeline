@@ -1,0 +1,53 @@
+line_number,content
+1,Nithya Chandra Mohan
+2,"nithya.chandramohan1@gmail.com|646-425-1963|LosAngeles,CA(OpentoRelocate)|GitHub|LinkedIn"
+3,Education
+4,"CaliforniaStateUniversity,LongBeach ExpectedGraduationDate: Jan. 2027"
+5,M.S.inComputerScience
+6,"RelevantCourses: DatabaseManagementSystems(DBMS),DistributedComputing,AdvancedSoftwareEngineering."
+7,Experience
+8,Outamation(ExternProgram) Jan. 2026–Present
+9,DataEngineeringExtern Remote
+10,"• Builds modular data ingestion and transformation pipelines using Python, OCR (Tesseract, PaddleOCR), and"
+11,"PDFparsing,processing200+pageunstructureddocuments."
+12,"• Develops document retrieval workflows using Python and LlamaIndex, applying chunking and metadata-based"
+13,filteringtosupportsemanticsearchusecases.
+14,"• PerformsdataqualitychecksandperformanceevaluationonOCRandretrievalpipelines,documentingfindings"
+15,andoptimizationconsiderations.
+16,DeloitteAustralia(ForageVirtualExperience) Jan. 2024–Feb. 2024
+17,DataAnalyticsVirtualIntern Remote
+18,"• Analyzedmachinetelemetrydatasetsfrom5+globalfactorylocationsusingExcelandTableau,identifyingdown-"
+19,timeandfailurepatternsthatimprovedinsightaccuracyby25%.
+20,"• Built interactive Tableau dashboards with operational KPIs, enabling factory-level performance monitoring and re-"
+21,ducingissueidentificationtimeby30%.
+22,AaishwaryaConstructionCompany Apr. 2022–Nov. 2024
+23,"DataOperationsAssociate Chennai,India"
+24,"• Built and maintained structured data ingestion and transformation workflows using Excel and Google Sheets,"
+25,improvingdataaccuracyanddataretrievalefficiency.
+26,"• DesignedETL-stylereportingpipelinestoprocesslabor,material,andcostdatausingExcelautomation,reducing"
+27,manualprocessingtimeby40%.
+28,"• Performed data quality checks, validation, and aggregation on multi-year operational datasets to support ana-"
+29,lyticsandoperationaldecision-making.
+30,Publications
+31,TheRoleofGenerativeAIinTransformingHealthcareServices
+32,"IEEE–25thInternationalConferenceonSoftwareQuality,Reliability,andSecurityCompanion(QRS-C),2025"
+33,DOI:10.1109/QRS-C65679.2025.00015
+34,"• Analyzed applications of Generative AI in healthcare, including diagnostics, clinical documentation, drug discovery,"
+35,andprivacyandbiasconsiderations.
+36,Projects
+37,"End-to-EndDocumentDataPipeline(IndependentProject)|Python,Pandas,SQL,ETL,OCR Jan. 2026–Ongoing"
+38,"• Built data ingestion and transformation pipelines in Python to process structured and semi-structured data,"
+39,improvingdatareadinessforanalytics.
+40,"• Implemented ETL workflows with data validation, schema enforcement, and transformations using Pandas and"
+41,"SQL,reducingdatainconsistenciesby30%."
+42,"• Documented data pipelines, schemas, and processing logic, improving maintainability and reducing onboarding"
+43,timeby25%.
+44,"AutomatedBusinessAnalytics&KPIPipeline(IndependentProject)|Python,SQL,Analytics Oct. 2023"
+45,• DevelopedETL-styleanalyticsworkflowsusingPythonandSQLtoprocessstructureddatasetsforreportingand
+46,analysis.
+47,• PerformeddataqualitychecksandaggregationtosupportaccurateKPIcalculationandvalidation.
+48,• Optimizeddataprocessinglogictoimprovequeryperformanceandreportingefficiency.
+49,Skills
+50,"Languages: Python,SQL"
+51,"DataEngineering: ETL/ELT,DataPipelines,DataIngestion,DataQuality&Validation"
+52,"Analytics&Libraries: Pandas,KPIAnalysis,DataAggregation,QueryOptimization,Documentation,Git"
